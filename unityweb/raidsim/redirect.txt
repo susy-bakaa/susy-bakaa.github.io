@@ -1,3 +1,0 @@
-Change the following line to this:
-
-dataUrl: "https://media.githubusercontent.com/media/susy-bakaa/susy-bakaa.github.io/refs/heads/master/unityweb/raidsim/Build/webbuild.data",

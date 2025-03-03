@@ -1,0 +1,183 @@
+ManifestFileVersion: 0
+CRC: 2875464389
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd5303c0b07f9dc454d85e8f13965eb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a08c6574adade969d187f60286a50e8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: dd5303c0b07f9dc454d85e8f13965eb5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 807db99486a693b45889bbd1dc0a254f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78b85dc40d50f704f93e875f423d4232, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 978fd0b79b45324438a8cccb67660064, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5a2fd248f66b144bf35bbfbea31ede, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_c_e.png
+- Assets/FFXIV/Fights/A8S/Models/m0300b0001.events.xml
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_d_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall3_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_flor1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall4_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_pip01_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_lig03_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe1_n.png
+- Assets/FFXIV/Fights/A8S/Materials/ENM_BruteJustice_E.mat
+- Assets/FFXIV/Fights/A8S/Textures/Arena/_n_lightshaft_s1_000.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall1_n.png
+- Assets/FFXIV/Fights/A8S/Materials/EnvironmentWall2.mat
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_flor1_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe2_d.png
+- Assets/FFXIV/Fights/A8S/Textures/floor_tile.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe1_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_gate1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall3_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall2_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall2_s.png
+- Assets/FFXIV/Fights/A8S/Materials/EnvironmentWall1.mat
+- Assets/FFXIV/Fights/A8S/Models/m0300b0001.fbx
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe5_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_gate1_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par03_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_pip01_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_flor2_d.png
+- Assets/FFXIV/Fights/A8S/Materials/EnvironmentWall3.mat
+- Assets/FFXIV/Fights/A8S/Prefabs/m0300b0001.prefab
+- Assets/FFXIV/Fights/A8S/Materials/ENM_BruteJustice_D.mat
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall2_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_pill1_d.png
+- Assets/FFXIV/Fights/A8S/Materials/EnvironmentFloor1.mat
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0003_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_a_o.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall1_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/dummy_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0005_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_d_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0003_s.png
+- Assets/FFXIV/Fights/A8S/Materials/EnvironmentFloor2.mat
+- Assets/FFXIV/Fights/A8S/Textures/Arena/dummy_d.png
+- Assets/FFXIV/Fights/A8S/Models/m0300b0001.controller
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_pill1_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a0_uvsc1_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_tes01_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe2_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0003_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_c_o.png
+- Assets/FFXIV/Fights/A8S/Materials/EnvironmentGlow.mat
+- Assets/FFXIV/Fights/A8S/Prefabs/ArenaModelStandard.prefab
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_flor2_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_d_e.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_b_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par05_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_d_o.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_a_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_wall1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall2_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe2_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_b_o.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0003_s1.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/dummy_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par05_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_lig03_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a0_uvsc1_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall3_s1.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_c_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_lig03_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_a_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par04_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_flor1_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_pip01_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_c_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0005_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall1_s1.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_tes01_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe3_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall2_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall2_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_tes01_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe3_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_gate1_d.png
+- Assets/FFXIV/Fights/A8S/Materials/ENM_BruteJustice_C.mat
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_b_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_g0005_s.png
+- Assets/FFXIV/Fights/A8S/Models/arena_a8s_extra.fbx
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a3_net01_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_pill1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/_n_lightshaft_s0_000.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par04_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_b_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe3_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall1_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_b_e.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/reflections.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe5_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par04_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a3_net01_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_a_e.png
+- Assets/FFXIV/Fights/A8S/Materials/ENM_BruteJustice_A.mat
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_a_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_wall1_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a3_net01_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall1_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_c_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe5_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par03_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall3_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a0_uvsc1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Boss/mt_m0300b0001_d_n.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par05_s.png
+- Assets/FFXIV/Fights/A8S/Models/arena_a8s.fbx
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_flor2_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_wall1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a2_wall1_s2.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_pipe1_s.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a1_wall1_d.png
+- Assets/FFXIV/Fights/A8S/Textures/Arena/d2a0_a4_par03_d.png
+- Assets/FFXIV/Fights/A8S/Materials/ENM_BruteJustice_B.mat
+Dependencies: []

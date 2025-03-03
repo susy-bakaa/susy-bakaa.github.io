@@ -1,0 +1,118 @@
+ManifestFileVersion: 0
+CRC: 1348162957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0418968fa8a46d82ee8a6af69d9a9aff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ccd4bb0bad9b64bf8f6b4b32a889738d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0418968fa8a46d82ee8a6af69d9a9aff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19f16c1ed621a20448153fe4b24a92b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a66d1266fc9bed498fc3f292faaf0cb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 807db99486a693b45889bbd1dc0a254f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78b85dc40d50f704f93e875f423d4232, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5a2fd248f66b144bf35bbfbea31ede, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0888b0001_base.png
+- Assets/FFXIV/Fights/M4S/Prefabs/m0888b0001_cannon.prefab
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0888b0001_mask.png
+- Assets/FFXIV/Fights/M4S/Prefabs/ArenaModelStandard.prefab
+- Assets/FFXIV/Fights/M4S/Materials/WickedThunder01.mat
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_a_n.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_b_s.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0888b0001.events.xml
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_d_o.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_w0201b0086_a_o.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0888b0001_a_s.png
+- Assets/FFXIV/Fights/M4S/Materials/Arena_Tile.mat
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_d_s.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_d_e.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0889b0001.events.xml
+- Assets/FFXIV/Fights/M4S/Materials/WickedThunder02.mat
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_c_e.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0889b0001_cbbm_sp_d_vfx.anim
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0889b0001.controller
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0889b0001_id.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0888b0001.controller
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_b_o.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0888b0001_a_e.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_c_s.png
+- Assets/FFXIV/Fights/M4S/Textures/arena_tile.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0889b0001.fbx
+- Assets/FFXIV/Fights/M4S/Prefabs/m0889b0001.prefab
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_d_n.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_a_e.png
+- Assets/FFXIV/Fights/M4S/Materials/WickedThunder03.mat
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0888b0001_CloneTower.controller
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_b_e.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_d_d.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0888b0001_CloneCannon.controller
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0888b0001_id.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_w0201b0086_a_d.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_c_n.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_w0201b0086_a_s.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_c_o.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_a_o.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_a_s.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0888b0001_norm.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_b_n.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0889b0001_norm.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0888b0001.fbx
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_a_d.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0888b0001_a_o.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0888b0001_a_d.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0888b0001_a_n.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_w0201b0086_a_e.png
+- Assets/FFXIV/Fights/M4S/Materials/Sword01.mat
+- Assets/FFXIV/Fights/M4S/Prefabs/m0888b0001_dive.prefab
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_b_d.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0889b0001_base.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0889b0001_c_d.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/w0201b0086.fbx
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0889b0001_novfx.anim
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_m0888b0001_a_o_inverted.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/mt_w0201b0086_a_n.png
+- Assets/FFXIV/Fights/M4S/Textures/Boss/v01_m0889b0001_mask.png
+- Assets/FFXIV/Fights/M4S/Models/Boss/m0889b0001_cbbm_sp_c_vfx.anim
+Dependencies: []

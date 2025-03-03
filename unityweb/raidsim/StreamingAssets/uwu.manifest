@@ -1,0 +1,301 @@
+ManifestFileVersion: 0
+CRC: 691458480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04d7b5b1487ac61dbd0f64697bdf2e38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c011acff640c164515e93b4e30be9395
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 04d7b5b1487ac61dbd0f64697bdf2e38
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 606a8fab557be3347a86c924273cdd61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 807db99486a693b45889bbd1dc0a254f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78b85dc40d50f704f93e875f423d4232, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e5a2fd248f66b144bf35bbfbea31ede, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp04_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_mtst1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_g0002_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp07_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrgr1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0072b0001_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock3_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_ixl_001_004_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c1_rock1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_d_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c1_rock1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp03_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock1_s_edit.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0072b0001_id.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp04_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/dummy_d.png
+- Assets/FFXIV/Fights/UWU/Materials/Lava01.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp02_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_p1_koux1_d.png
+- Assets/FFXIV/Fights/UWU/Prefabs/m0072b0001.prefab
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_ixl_001_004_d.png
+- Assets/FFXIV/Fights/UWU/Materials/Titan02.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rcjr1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rcjr0_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_kous1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_grst2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock0_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_mtst2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_gras1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0072b0001_n.png
+- Assets/FFXIV/Fights/UWU/Models/m0072b0001.events.xml
+- Assets/FFXIV/Fights/UWU/Textures/Arena/_w1fz_t1_gare1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q8_lift1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_p1_koux1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_jari1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp01_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_c_m.png
+- Assets/FFXIV/Fights/UWU/Models/cbbm_sp_pop_1.anim
+- Assets/FFXIV/Fights/UWU/Materials/Titan04.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp08_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_wall1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_a_n.png
+- Assets/FFXIV/Fights/UWU/Models/m0072b0001_hidden.anim
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rcjr0_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp06_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_a_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_d_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/_w1f0_p0_leaf1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_grwl1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_grst2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_c_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0072b0001_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrgr1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_kous1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp07_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/dummy_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift4_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp08_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift4_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_c_e.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrgr1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_ston1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp08_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_mtst2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/_w1f0_p0_leaf2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_mtst1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift3_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q8_lift2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrix2_d.png
+- Assets/FFXIV/Fights/UWU/Models/m0098b0001_visible.anim
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_b_s.png
+- Assets/FFXIV/Fights/UWU/Prefabs/m0098b0001.prefab
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock3_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0072b0001_a_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_mtst1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_jari1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp02_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_c_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1f0_p0_stem1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_amj_002_sld_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1f0_p0_plnt5_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_g0002_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_g0003_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_d_o.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t3_grnd1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_c_o.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_grnd2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_grnd1_d.png
+- Assets/FFXIV/Fights/UWU/Materials/Rock02.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_a0_lmp00_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_b_e.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrix1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/_w1fz_r1_youg1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock0_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_bligt_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_amj_002_sld_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0072b0001_a_o.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_b_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp01_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_a_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/s1fa_c0_rock1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrix1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_jari1_d.png
+- Assets/FFXIV/Fights/UWU/Models/m0072b0001_visible.anim
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_d_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/s1fa_c0_rock0_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrgr2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/reference_titan.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1f0_p0_plnt5_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_b_o.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_gras1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_amj_002_sld_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrix1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q8_lift1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_b_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_gras1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t3_grnd1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_grnd3_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_v1_mtwd1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_c_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrgr2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_g0002_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock3_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_p1_kowe1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t3_grnd1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_wall1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_kous1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock3_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_gras1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp07_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/dummy_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_grst2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_v1_mtwd1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock4_d.png
+- Assets/FFXIV/Fights/UWU/Materials/Rock03_02.mat
+- Assets/FFXIV/Fights/UWU/Materials/Rock03.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp01_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_a4_met01_n.png
+- Assets/FFXIV/Fights/UWU/Models/m0072b0001.controller
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_mtst2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_ixl_003_001_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/reflections2.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp03_d.png
+- Assets/FFXIV/Fights/UWU/Materials/Titan03.mat
+- Assets/FFXIV/Fights/UWU/Materials/Titan01.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp02_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_gras1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_b_s.png
+- Assets/FFXIV/Fights/UWU/Prefabs/ArenaModelStandard.prefab
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_a_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c1_rock1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_grnd1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift4_s.png
+- Assets/FFXIV/Fights/UWU/Models/m0072b0001.fbx
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp03_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rcjr1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_a_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_rock3_d.png
+- Assets/FFXIV/Fights/UWU/Textures/reference_titan2.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_wall1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_b_id.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrix2_s.png
+- Assets/FFXIV/Fights/UWU/Models/m0098b0001_hidden.anim
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0072b0001_a_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock0_s_edit.png
+- Assets/FFXIV/Fights/UWU/Models/m0098b0001.controller
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1f0_p0_stem1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock0_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrgr2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_grwl1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_grnd2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_a_id.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_t1_grnd2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/reflections.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_wall1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift3_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp04_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q7_lift3_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_grnd1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q8_lift2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_c_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock2_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q8_lift2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_ixl_003_001_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_a_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_g0003_n.png
+- Assets/FFXIV/Fights/UWU/Materials/Rock01.mat
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0072b0001_a_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_a_o.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/v01_m0098b0001_b_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_a4_met01_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0072b0001_a_e.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_bligt_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock2_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_gras1_d.png
+- Assets/FFXIV/Fights/UWU/Materials/RockDebris01.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_g0003_d.png
+- Assets/FFXIV/Fights/UWU/Models/arena_uwu.fbx
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_b1_ston1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock3_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rock3_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_bligh_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_t1_kous1_edit_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_d_e.png
+- Assets/FFXIV/Fights/UWU/Models/m0098b0001.fbx
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp06_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_wall1_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q1_emp06_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_t1_grwl1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rcjr0_n.png
+- Assets/FFXIV/Fights/UWU/Models/cbbm_show_sp01_1.anim
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w_ixl_001_004_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_a_e.png
+- Assets/FFXIV/Fights/UWU/Materials/Gaol01.mat
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1f0_p0_plnt1_d.png
+- Assets/FFXIV/Fights/UWU/Models/m0098b0001.events.xml
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_v1_mtwd1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_a4_met01_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fz_c0_rock1_s.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_rcjr1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1fa_c0_jrix2_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Arena/w1d5_q8_lift1_d.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/mt_m0098b0001_b_n.png
+- Assets/FFXIV/Fights/UWU/Textures/Boss/DT/id_16.png
+Dependencies: []
