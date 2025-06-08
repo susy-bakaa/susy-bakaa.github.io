@@ -1,23 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport"
-        content="width=device-width,
-        initial-scale=1.0" />
-        <title>susy_baka - Wave: Nazi Zombies</title>
-        <link rel="stylesheet" href="styles.css" />
-    </head>
-    <body>
-        <nav class="navbar">
-            <div class="navbar__container">
-                <a href="/" id="navbar__logo">susy_baka</a>
-                <div class="navbar__toggle" id="mobile-menu">
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                    <span class="bar"></span>
-                </div>
-            </div>
-        </nav>
-    </body>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>susy_baka - Wave: Nazi Zombies</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar__container">
+            <a href="/" id="navbar__logo">susy_baka</a>
+            <ul class="navbar__menu">
+                <li class="navbar__item"><a href="/" class="navbar__links">Home</a></li>
+                <li class="navbar__item"><a href="/blog.html" class="navbar__links">Blog</a></li>
+                <li class="navbar__item"><a href="/games.html" class="navbar__links">Games</a></li>
+                <li class="navbar__item"><a href="/mods.html" class="navbar__links">Mods</a></li>
+                <li class="navbar__item"><a href="/tools.html" class="navbar__links">Tools</a></li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        <h1>Wave: Nazi Zombies</h1>
+        <p>This is the main game project I have in the works at the moment. A round-based zombies survival game heavily inspired by the classic Call of Duty Zombies experience.</p>
+
+        <div class="gallery">
+            <img src="images/store_screenshot_01.png" alt="Screenshot 1">
+            <img src="images/store_screenshot_02.png" alt="Screenshot 2">
+            <img src="images/store_screenshot_03.png" alt="Screenshot 3">
+            <img src="images/store_screenshot_04.png" alt="Screenshot 4">
+            <img src="images/store_screenshot_05.png" alt="Screenshot 5">
+        </div>
+
+        <div class="store-button-container">
+            <a href="https://store.steampowered.com/" class="store-button" target="_blank">View on Steam</a>
+        </div>
+
+        <!-- Lightbox -->
+        <div id="lightbox" class="lightbox">
+            <span class="close">&times;</span>
+            <img class="lightbox-content" id="lightbox-img">
+        </div>
+
+        <script src="lightbox.js"></script>
+    </main>
+</body>
 </html>
