@@ -48,5 +48,29 @@
         "DownloadLinkTesting": "https://github.com/susy-bakaa/LMeter/releases/download/v.0.3.1.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/susy-bakaa/LMeter/releases/download/v.0.3.1.2/latest.zip",
         "IconUrl": "https://raw.githubusercontent.com/susy-bakaa/LMeter/main/LMeter/Media/Images/icon.png"
+    },
+    {
+        "Author": "Eauldane, susy_baka",
+        "Name": "Snowcloak Sync Floof Edition",
+        "InternalName": "SnowcloakFloof",
+        "AssemblyVersion": "0.2.4",
+        "TestingAssemblyVersion": "0.2.4",
+        "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically. This is an unofficial fork of the original Snowcloak. Please use the official one unless you have a reason to use this one.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/susy-bakaa/SnowcloakClient",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "TestingDalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/MareSynchronos/images/logo.png",
+        "Punchline": "Social modding for the masses.",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "CanUnloadAsync": true,
+        "DownloadLinkInstall": "https://github.com/susy-bakaa/SnowcloakClient/releases/download/0.2.4/latest.zip",
+        "DownloadLinkTesting": "https://github.com/susy-bakaa/SnowcloakClient/releases/download/0.2.4/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/susy-bakaa/SnowcloakClient/releases/download/0.2.4/latest.zip"
     }
 ]
