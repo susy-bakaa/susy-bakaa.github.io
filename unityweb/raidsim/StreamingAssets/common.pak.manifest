@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2651398751
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22493fd397ce22717d3c1eaad8066cf9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d27d605e56b00c7d193d3604b99a7461
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 22493fd397ce22717d3c1eaad8066cf9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/Unlit_Waymark.shadergraph
+- Assets/Shaders/Unlit_SoftFade.shader
+- Assets/Shaders/Unlit_SimpleSkybox.shader
+- Assets/Shaders/Unlit_UI_Scrolling.shadergraph
+- Assets/Shaders/Lit_BgUvScroll.shadergraph
+- Assets/Shaders/Unlit_Lightshaft.shader
+- Assets/Shaders/Unlit_RoundAoe.shader
+- Assets/FFXIV/Universal/Textures/Exported/dummy_n.tex.png
+- Assets/Shaders/Hidden_GeometryTint.shader
+- Assets/FFXIV/Universal/Models/aoe_circle_thick.fbx
+- Assets/Shaders/UVOutput.shadersubgraph
+- Assets/Shaders/Lit_Bg.shadergraph
+- Assets/Shaders/Lit_Bg_Normal.shadersubgraph
+- Assets/FFXIV/Fights/M12S/Materials/SkyboxDeepOrange.mat
+- Assets/Shaders/Lit_Bg_Diffuse.shadersubgraph
+- Assets/Shaders/Lit_UVScroll.shadergraph
+- Assets/Shaders/Unlit_Tether.shadergraph
+- Assets/Shaders/Lit_Character.shadergraph
+- Assets/Shaders/Unlit_Particle.shader
+- Assets/Shaders/Unlit_RectangleAoe2.shader
+- Assets/Shaders/Lit_Bg_Specular.shadersubgraph
+- Assets/Shaders/Unlit_RectangleAoe.shader
+- Assets/Shaders/Lit_DitherTransparent.shader
+- Assets/Shaders/Unlit_RoundAoeV2.shader
+- Assets/Shaders/Unlit_TransparentColor.shader
+- Assets/Shaders/Unlit_TransparentTexture.shader
+- Assets/Shaders/Unlit_DoubleSided.shadergraph
+- Assets/Shaders/Lit_Background.shader
+- Assets/Shaders/Unlit_TransparentVertexColor.shader
+- Assets/Shaders/Unlit_Orb.shadergraph
+- Assets/FFXIV/Fights/M12S/Materials/SkyboxGreen.mat
+- Assets/Shaders/Hidden_SolidDepthMask.shader
+Dependencies: []
