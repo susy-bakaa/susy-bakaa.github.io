@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2473921714
+CRC: 2577941822
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5438eebabb14b7a4ed3990f5054503aa
+    Hash: c8aa0cb662620203a64a96e233eb5b67
   TypeTreeHash:
     serializedVersion: 2
     Hash: d27d605e56b00c7d193d3604b99a7461
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5438eebabb14b7a4ed3990f5054503aa
+    Hash: c8aa0cb662620203a64a96e233eb5b67
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -37,6 +37,7 @@ Assets:
 - Assets/Shaders/Lit_BgUvScroll.shadergraph
 - Assets/Shaders/Unlit_Lightshaft.shader
 - Assets/Shaders/Unlit_RoundAoe.shader
+- Assets/FFXIV/Universal/Textures/Exported/dummy_s.tex.png
 - Assets/FFXIV/Universal/Textures/Exported/dummy_n.tex.png
 - Assets/Shaders/Hidden_GeometryTint.shader
 - Assets/FFXIV/Universal/Models/aoe_circle_thick.fbx
@@ -62,4 +63,5 @@ Assets:
 - Assets/Shaders/Unlit_Orb.shadergraph
 - Assets/FFXIV/Fights/M12S/Materials/SkyboxGreen.mat
 - Assets/Shaders/Hidden_SolidDepthMask.shader
+- Assets/FFXIV/Universal/Textures/Exported/dummy_d.tex.png
 Dependencies: []
